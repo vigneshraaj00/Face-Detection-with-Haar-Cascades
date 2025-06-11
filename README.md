@@ -135,6 +135,10 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/2cde8f7e-4de8-41c2-98e8-9f567f302352)
 
+### OUTPUT IMAGE:
+![image](https://github.com/user-attachments/assets/fbb3a167-0229-4500-820b-4fc1c3a39138)
+
+
 
 ## RESULT:
 Thus, to write a Python program using OpenCV to perform image manipulations for the given objectives is executed sucessfully.
